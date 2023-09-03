@@ -1,0 +1,11 @@
+C:\Users\chaly\source\repos\TetrisAbstrFabric\TetrisAbstrFabric\bin\Debug\TetrisAbstrFabric.exe.config
+C:\Users\chaly\source\repos\TetrisAbstrFabric\TetrisAbstrFabric\bin\Debug\TetrisAbstrFabric.exe
+C:\Users\chaly\source\repos\TetrisAbstrFabric\TetrisAbstrFabric\bin\Debug\TetrisAbstrFabric.pdb
+C:\Users\chaly\source\repos\TetrisAbstrFabric\TetrisAbstrFabric\obj\Debug\TetrisAbstrFabric.csproj.AssemblyReference.cache
+C:\Users\chaly\source\repos\TetrisAbstrFabric\TetrisAbstrFabric\obj\Debug\TetrisAbstrFabric.Form1.resources
+C:\Users\chaly\source\repos\TetrisAbstrFabric\TetrisAbstrFabric\obj\Debug\TetrisAbstrFabric.Properties.Resources.resources
+C:\Users\chaly\source\repos\TetrisAbstrFabric\TetrisAbstrFabric\obj\Debug\TetrisAbstrFabric.csproj.GenerateResource.cache
+C:\Users\chaly\source\repos\TetrisAbstrFabric\TetrisAbstrFabric\obj\Debug\TetrisAbstrFabric.csproj.CoreCompileInputs.cache
+C:\Users\chaly\source\repos\TetrisAbstrFabric\TetrisAbstrFabric\obj\Debug\TetrisAbstrFabric.exe
+C:\Users\chaly\source\repos\TetrisAbstrFabric\TetrisAbstrFabric\obj\Debug\TetrisAbstrFabric.pdb
+C:\Users\chaly\source\repos\TetrisAbstrFabric\TetrisAbstrFabric\obj\Debug\TetrisAbstrFabric.Form2.resources
